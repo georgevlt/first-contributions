@@ -1,13 +1,10 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-<<<<<<< HEAD
+- [adding a line fromm feature1]
 - [adding a line from main branch] 
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
-=======
-- [adding a line fromm feature1]
->>>>>>> feature1
 - [George Babii] (https://github.com/georgevlt)
 - [Anna Wolfe]
 - [Mohammad Arwani] (https://github.com/m7md-arwani)
