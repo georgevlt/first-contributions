@@ -6,9 +6,9 @@ terraform {
   required_providers {
     aws = {
       source  = "aws"
-      version = "~> 4.0"
+      version = "~> 3.0"
       source  = "hashicorp/gcp"
-      version = "~> 8.0"
+      version = "~> 3.0"
     }
   }
 }
@@ -21,4 +21,9 @@ provider "aws" {
 # Create a VPC
 resource "aws_vpc" "example" {
   cidr_block = "20.0.0.0/16"
+}
+
+resource "aws_vpc" "SCC" {
+    cidr_block = "10.0.0.26/15"
+
 }
