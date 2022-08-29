@@ -1,5 +1,5 @@
 #newlinebygeorge
-
+#newlineadded -2ndone
 #API_KEY = {0755490652}
 export GCP_ACCESS_KEY_ID="andrei"
 export GCP_ACCESS_KEY_ID="andrei"
@@ -30,3 +30,5 @@ resource "gcp_vpc" "SCC" {
     cidr_block = "10.0.0.26/15"
 
 }
+
+#here is another line added
