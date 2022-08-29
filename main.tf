@@ -1,5 +1,5 @@
 export AWS_ACCESS_KEY_ID="12345"
-export AWS_SECRET_ACCESS_KEY="1234"
+export AWS_SECRET_ACCESS_KEY="12345"
 export AWS_REGION="eu-northeast-2"
 
 terraform {
