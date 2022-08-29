@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [adding a line fromm feature1]
 - [George Babii] (https://github.com/georgevlt)
 - [Anna Wolfe]
 - [ASNaq35]
