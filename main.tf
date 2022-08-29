@@ -1,6 +1,6 @@
-export AWS_ACCESS_KEY_ID="123456789"
-export AWS_SECRET_ACCESS_KEY="123456789"
-export AWS_REGION="us-west-2"
+export AWS_ACCESS_KEY_ID="12345"
+export AWS_SECRET_ACCESS_KEY="1234"
+export AWS_REGION="eu-northeast-2"
 
 terraform {
   required_providers {
@@ -13,11 +13,10 @@ terraform {
 
 # Configure the AWS Provider
 provider "aws" {
-  region = "us-east-1"
+  region = "eu-northeast-2"
 }
 
 # Create a VPC
 resource "aws_vpc" "example" {
-  cidr_block = "10.0.0.0/16"
+  cidr_block = "10.0.0.0/32"
 }
-
