@@ -1,2 +1,4 @@
--onelineaddedy
--this is a line added from featurenou  branch
+Deleted all the text
+George Andrei Babii
+Doar 3 linii de cod sunt aici
+
