@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [adding a line from main branch] 
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [George Babii] (https://github.com/georgevlt)
