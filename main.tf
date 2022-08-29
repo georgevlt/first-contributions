@@ -5,8 +5,13 @@ export AWS_REGION="eu-north-2"
 terraform {
   required_providers {
     aws = {
+<<<<<<< HEAD
       source  = "aws"
       version = "~> 4.0"
+=======
+      source  = "hashicorp/aws"
+      version = "~> 8.0"
+>>>>>>> 2b8bad39c24d9cd5703cea37c6cd05eeeede0115
     }
   }
 }
