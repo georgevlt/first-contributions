@@ -1,3 +1,6 @@
+#newlinebygeorge
+
+#API_KEY = {0755490652}
 export AWS_ACCESS_KEY_ID="andrei"
 export AWS_SECRET_ACCESS_KEY="andrei"
 export AWS_REGION="eu-east-2"
